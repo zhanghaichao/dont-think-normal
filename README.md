@@ -1,6 +1,6 @@
 # DON'T THINK NORMAL
 
-Public game introduction and privacy policy for the current offline, free-hint release.
+Public game introduction and privacy policy for the version 0.7.0 with optional rewarded ads and a one-time ad-free hints purchase.
 
 Developer: Jocelyn
 Contact: seansheaton@gmail.com
